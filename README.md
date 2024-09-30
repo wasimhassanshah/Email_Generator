@@ -8,3 +8,8 @@ and generates personalized cold emails using job descriptions and relevant portf
 vector database. Utilized Groq, Llama 3.1, Langchain, ChromaDB, and Streamlit to streamline and
 personalize outreach efforts for potential partnerships. (Streamlit, Langchain, Llama 3.1 LLM,
 ChromaDB, RAG, PyCharm)
+
+# Architecture
+![](/images/architecture.PNG)
+
+

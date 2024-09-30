@@ -12,4 +12,8 @@ ChromaDB, RAG, PyCharm)
 # Architecture
 ![](/images/architecture.PNG)
 
+# APP
+![](/images/app_snapshot.PNG)
+
+
 
